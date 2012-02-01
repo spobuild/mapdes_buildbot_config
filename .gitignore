@@ -1,4 +1,4 @@
-runtests
+mcfc-output
 twistd.log
 twistd.pid
 state.sqlite
